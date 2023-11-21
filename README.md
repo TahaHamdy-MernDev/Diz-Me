@@ -1,1 +1,9 @@
-# personal-portfolio-with-scrollanimation![screencapture-file-C-Users-Taha-Hamdy-Desktop-dizme-index-html-2022-09-06-21_38_18](https://user-images.githubusercontent.com/104000401/188725035-b5a48b70-c11e-46ab-af23-c47d19e30c21.png)
+# Diz-Me Portfolio
+
+
+## Key Implementation:
+- Animate Width On Scrolling
+- Fundamental CSS properties (Flex & Grid)
+- Fundamentals of the CSS BEM Model
+- Soft and pleasant animations
+- Perfectly placed media queries for satisfactory responsiveness covering almost all devices
